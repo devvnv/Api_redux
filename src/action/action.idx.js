@@ -6,4 +6,6 @@ export const  MyDisplayData = (product) => {
     payload: product
   }
 }
- 
+
+
+
